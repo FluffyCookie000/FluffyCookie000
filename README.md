@@ -1,3 +1,3 @@
 ### Hola
-im dying inside
-\nand i still dont know how to use github
+- im dying inside
+- and i still dont know how to use github
